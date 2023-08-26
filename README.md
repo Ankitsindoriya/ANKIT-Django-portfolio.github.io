@@ -20,12 +20,7 @@ Modular and Extensible: Structured using Django's app-based architecture, enabli
 
 Responsive Design: Designed to be responsive across various devices, ensuring a consistent and engaging experience on desktops, tablets, and smartphones.
 
-Usage:
 
-Clone the repository: git clone https://github.com/yourusername/MyDjangoWebsite.git
-Create a virtual environment: python -m venv venv
-Activate the virtual environment: source venv/bin/activate (Linux/macOS) or venv\Scripts\activate (Windows)
-Install dependencies: pip install -r requirements.txt
 Configure database settings in settings.py
 Apply migrations: python manage.py migrate
 Create a superuser for the admin panel: python manage.py createsuperuser
